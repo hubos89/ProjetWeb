@@ -3,7 +3,7 @@ include('Vue/entete.php');
 	switch($_GET['page']){
 		case 'profil':
 			include('Vue/profil.php');
-		break;
+		break; 
 		case 'creerCarte':
 			include('Vue/creerCarte.php');
 		break;
