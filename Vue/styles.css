@@ -1,0 +1,54 @@
+ .red{
+	 color:red;
+ }
+ .center{
+	 text-align:center;
+ }
+ #menu_horizontal li{
+	 display:inline-block;
+	 padding:0px;
+	 width:200px;
+	 height:40px;
+	 margin:0px;
+	 text-align:center;
+	 border-right:1px solid #CCCCCC;
+	 line-height:40px;
+	 color:black;
+	 
+ }
+ #menu_horizontal{
+	 list-style-type:none;
+	 border-right: 1px solid black;
+ }
+ #menu_horizontal a, a:hover a:active a:visited{
+	 color:black;
+	 font-style:normal;
+ }
+ #menu_horizontal a{
+	 text-decoration:none;
+ }
+ #infoCarteGauche{
+	float:left;
+	text-align:center;
+ }
+ #infoCarteDroite{
+	float: right;
+	text-align:center;
+ }
+ .body{
+	 margin-left:15%;
+	 margin-right:15%;
+ }
+ .textarea{
+	 resize:none;
+ }
+ .creerCarteGauche{
+	 width:49%;
+	 float:left;
+	text-align:right;
+ }
+ .creerCarteDroite{
+	 width:49%;
+	 float: right;
+	text-align:left;
+ }
